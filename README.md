@@ -1,6 +1,6 @@
-// *****************************************************************************
-// ** Maze Generation and Path Discovery Program                                 **
-// *****************************************************************************
+
+** Maze Generation and Path Discovery Program **                               
+
 
  This C++ program demonstrates the generation of mazes using a  backtracking algorithm
 and subsequently discovering a path from the entry to the exit points within the generated mazes.
